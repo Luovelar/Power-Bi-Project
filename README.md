@@ -14,8 +14,7 @@ Interactive Power BI dashboard analyzing retail sales performance across regions
 - Client and product breakdown by city, state, and segment
 - Top 5 cities and categories by sales volume
 
-📁 [**View project file**](https://github.com/Luovelar/Power-Bi-Project/blob/main/Retail_Inventory.pbix)
-
+📁 [**View project file**](https://github.com/Luovelar/Power-Bi-Project/blob/main/Retail%20Inventory.pbix)
 ---
 
 ## Online Complaints 2022 (Reclamos Online 2022)
